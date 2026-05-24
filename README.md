@@ -10,7 +10,6 @@ A personal voice assistant project built with Python.
 - Search functionality
 - Game interface
 - Password management
-- And more!
 
 ## Installation
 
